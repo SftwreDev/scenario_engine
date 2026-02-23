@@ -17,6 +17,8 @@ A Django-based backend for configurable, LLM-driven learning scenarios. It provi
 ### Setup
 1. Clone the repo and create a virtual env
    ```bash
+   git clone https://github.com/SftwreDev/scenario_engine.git
+   cd scenario_engine
    python -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
